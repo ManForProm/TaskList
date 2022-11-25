@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Tasklist/task/build/
+/Tasklist/task/out/production/classes/
+/Tasklist/task/out/test/classes/
+/Topics/Inheritance/Comprehension of inheritance/out/
+/Topics/Inheritance/Comprehension of inheritance/out/production/classes/
+/Topics/Inheritance/Default modifiers/out/
+/Topics/Inheritance/Default modifiers/out/production/classes/
+/Topics/Inheritance/Fix bugs/out/
+/Topics/Inheritance/Fix bugs/out/production/classes/
+/Topics/Inheritance/Statements about inheritance/out/
+/Topics/Inheritance/Statements about inheritance/out/production/classes/
+/Topics/Inheritance/Theory/out/
+/Topics/Inheritance/Theory/out/production/classes/
+/Topics/Inheritance/Woof/out/
+/Topics/Inheritance/Woof/out/production/classes/

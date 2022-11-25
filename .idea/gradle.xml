@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Tasklist/task" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Tasklist/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Comprehension of inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Default modifiers" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Fix bugs" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Statements about inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Woof" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

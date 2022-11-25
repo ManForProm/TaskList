@@ -1,0 +1,26 @@
+type: code
+custom_name: Woof!
+files:
+- name: src/Main.kt
+  visible: true
+  text: // write here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20492#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:1:12: error: redeclaration: Dog
+    open class Dog( name:String){
+               ^
+    main.kt:7:1: error: conflicting overloads: public fun main(): Unit defined in root package in file main.kt, public fun main(): Unit defined in root package in file main.kt
+    fun main(){
+    ^
+    main.kt:11:12: error: redeclaration: Dog
+    open class Dog(name: String)
+               ^
+    main.kt:13:1: error: conflicting overloads: public fun main(): Unit defined in root package in file main.kt, public fun main(): Unit defined in root package in file main.kt
+    fun main() {
+    ^
+  time: "Wed, 09 Nov 2022 06:51:32 UTC"
+record: -1
